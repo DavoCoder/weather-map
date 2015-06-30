@@ -1,0 +1,12 @@
+body {
+	height:100%;
+}
+html{
+	height:100%;
+}
+
+
+.forecast-panel {
+	width: 200px;
+	height: 200px;
+}
